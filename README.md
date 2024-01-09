@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Portifolio site**
+ 🔭 I’m currently working on **Telegram Bot**
  
- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **Python**
 
  </div>
  
@@ -23,7 +23,7 @@
   <a href="https://linkedin.com/in/blessings-mwandira-31410b26a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://chile02.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
