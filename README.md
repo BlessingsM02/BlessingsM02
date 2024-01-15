@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Telegram Bot**
  
- 🌱 I’m currently learning **Python**
+ 🌱 I’m currently learning **Blazor**
 
  </div>
  
