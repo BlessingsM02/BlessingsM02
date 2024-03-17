@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Github profile**
+ 🔭 I’m currently working on **Final Year Project**
  
- 🌱 I’m currently learning **React JS**
+ 🌱 I’m currently learning **Maui**
 
  </div>
  
