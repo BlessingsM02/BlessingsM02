@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Blessings+Mwandira!;" />
 </h1>
 
-<h3 align="center">A passionate software engineering student</h3>
-
+<h3 align="center">Final year software engineering student</h3>
+<a href="mailto:blessingsmwandira4@gmail.com"></a>
 <br/>
 
 <div align="center">
  
  🔭 I’m currently working on **Final Year Project**
- 
-
+     <a href="https://github.com/Chile02">Link to my previous account</a>
+    
  </div>
  
 <div align="center"> 
