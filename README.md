@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Final Year Project**
+ 🔭 I’m currently working on **Goals App**
      
     
  </div>
