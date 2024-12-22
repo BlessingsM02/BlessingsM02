@@ -5,7 +5,6 @@
 </h1>
 
 <h3 align="center">Final year software engineering student</h3>
-<a href="https://github.com/Chile02">Link to my previous account</a>
 <br/>
 
 <div align="center">
