@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Discord Bot**
+ 🔭 I’m currently working on **Portifolio site**
      
     
  </div>
