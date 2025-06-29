@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **School Management**
+ 🔭 I’m currently working on **School Management System**
      
     
  </div>
