@@ -6,13 +6,6 @@
 
 <h3 align="center">Software Engineer</h3>
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **School Management System**
-     
-    
- </div>
  
 <div align="center"> 
   <a href="mailto:blessingsmwandira4@gmail.com">
@@ -31,8 +24,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,java,javascript,ts,python,php," />
-    <img src="https://skillicons.dev/icons?i=react,html,css,github," />
+    <img src="https://skillicons.dev/icons?i=cs,java,javascript,ts,python,php" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,github" />
     <img src="https://skillicons.dev/icons?i=mysql,unity" /><br>
 </div>
 
