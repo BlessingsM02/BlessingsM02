@@ -14,7 +14,7 @@
   <a href="https://linkedin.com/in/blessings-mwandira-31410b26a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://blessingsM02.github.io/" target="_blank">
+  <a href="https://blessingsmwandira.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -24,7 +24,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,javascript,ts,python,php" />
+    <img src="https://skillicons.dev/icons?i=cs,javascript,ts,php" />
     <img src="https://skillicons.dev/icons?i=react,html,css,github" />
     <img src="https://skillicons.dev/icons?i=mysql,unity" /><br>
 </div>
